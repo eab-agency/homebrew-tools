@@ -1,8 +1,8 @@
 class DevSecuritySetup < Formula
   desc "One-command secret detection pipeline for Git projects"
   homepage "https://github.com/eab-agency/dev-security-setup"
-  url "https://github.com/eab-agency/dev-security-setup/archive/refs/tags/v3.0.0.tar.gz"
-  sha256 "d2656a27e67143819bce43a3599928dc8b6651c25ec7526774cb64d5f96388f6"
+  url "https://github.com/eab-agency/dev-security-setup/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "dc9bdf5d75cb0b49560d58f5060d20eeafdde4ad75ceea3b612b1b7837e0f792"
   license :cannot_represent
 
   depends_on "pre-commit"
